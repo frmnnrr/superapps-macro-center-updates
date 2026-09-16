@@ -1,15 +1,15 @@
 {
-  "version": "1.18.0",
+  "version": "1.18.1",
   "mandatory": false,
-  "title": "Superapps Macro Center v1.18.0",
+  "title": "Superapps Macro Center v1.18.1",
   "notes": [
-    "Versi production pertama dengan sistem auto-update",
-    "Perbaikan Unicode dan encoding Windows",
-    "Peningkatan stabilitas aplikasi",
-    "Konfigurasi user tetap tersimpan saat update",
-    "Verifikasi update menggunakan SHA-256"
+    "Telegram Bot Token dan Chat ID dapat diatur masing-masing user",
+    "Penambahan Test Koneksi Telegram",
+    "Penyimpanan konfigurasi Telegram per user/PC",
+    "Penambahan tombol Buka Hasil Folder Download pada Download Cancel",
+    "Perbaikan kemudahan akses hasil unduhan"
   ],
-  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.0/Superapps_Macro_Center_Setup_v1.18.0.exe",
-  "sha256": "82a6424fb961cd4d4c63accb09c3db06c77707d9a0cb3ac1e153c8eb7a8ef744",
-  "published_at": "2026-09-16T10:03:17Z"
+  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.1/Superapps_Macro_Center_Setup_v1.18.1.exe",
+  "sha256": "be9768b879e07ef537640c62953672dfdbb71e6c22e2438c5d4cdbd98c7c8204",
+  "published_at": "2026-09-16T10:51:42Z"
 }
