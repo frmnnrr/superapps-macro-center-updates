@@ -1,0 +1,15 @@
+{
+  "version": "1.18.0",
+  "mandatory": false,
+  "title": "Superapps Macro Center v1.18.0",
+  "notes": [
+    "Versi production pertama dengan sistem auto-update",
+    "Perbaikan Unicode dan encoding Windows",
+    "Peningkatan stabilitas aplikasi",
+    "Konfigurasi user tetap tersimpan saat update",
+    "Verifikasi update menggunakan SHA-256"
+  ],
+  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.0/Superapps_Macro_Center_Setup_v1.18.0.exe",
+  "sha256": "82a6424fb961cd4d4c63accb09c3db06c77707d9a0cb3ac1e153c8eb7a8ef744",
+  "published_at": "2026-09-16T10:03:17Z"
+}
