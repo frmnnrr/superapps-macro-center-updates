@@ -1,18 +1,19 @@
 {
-  "version": "1.18.27",
+  "version": "1.18.28",
   "mandatory": false,
-  "title": "Superapps Macro Center v1.18.27",
+  "title": "Superapps Macro Center v1.18.28",
   "notes": [
-    "Perbaikan SS Validasi Presensi agar warna dan tampilan mengikuti tabel native website",
-    "Peningkatan stabilitas pemilihan Cabang JPMP",
-    "Perbaikan virtual click JPMP tanpa mengganggu mouse pengguna",
-    "Perbaikan proses drill-down JPMP",
-    "Perbaikan penanganan stale element dan JavaScript pada JPMP",
-    "Perbaikan SS Jadwal KBM untuk periode tanggal yang berbeda",
-    "Perbaikan level screenshot Kota, Sekretariat, dan Kelas",
-    "Peningkatan kecepatan dan stabilitas proses screenshot"
+    "Penambahan mode kecepatan Normal, Fast, dan Turbo pada SS Jadwal KBM",
+    "Mode Normal untuk PC atau jaringan yang lebih lambat",
+    "Mode Fast sebagai mode seimbang dan default",
+    "Mode Turbo untuk proses tercepat pada koneksi stabil",
+    "Perbaikan selector Cabang SS Jadwal KBM agar lebih stabil di berbagai PC/user",
+    "Pencarian Cabang tidak lagi case-sensitive",
+    "Penambahan wait async dan polling dropdown Cabang",
+    "Penambahan fallback normalized text dan virtual click",
+    "Peningkatan stabilitas pemilihan Cabang seperti PURWODADI"
   ],
-  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.27/Superapps_Macro_Center_Setup_v1.18.27.exe",
-  "sha256": "fa37bce7443d621e91a93384900fdc23467825887214df3645b5f838042e00e5",
-  "published_at": "2026-09-17T08:31:28Z"
+  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.28/Superapps_Macro_Center_Setup_v1.18.28.exe",
+  "sha256": "787d1f72d26203ac75b73a796d407cac11cbab26a00bafba16d1b47ca50afcdd",
+  "published_at": "2026-09-17T09:37:56Z"
 }
