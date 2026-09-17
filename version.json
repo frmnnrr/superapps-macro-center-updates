@@ -1,19 +1,18 @@
 {
-  "version": "1.18.5",
+  "version": "1.18.27",
   "mandatory": false,
-  "title": "Superapps Macro Center v1.18.5",
+  "title": "Superapps Macro Center v1.18.27",
   "notes": [
-    "Perbaikan selector Cabang pada SS Jadwal KBM",
-    "Perbaikan selector pada Realisasi KBM dan menu terkait",
-    "Penambahan Test Koneksi Telegram",
-    "Telegram Bot Token dan Chat ID per user/PC",
-    "Penambahan tombol Buka Hasil Folder Download pada Download Cancel",
-    "SS Validasi Presensi difokuskan ke kolom penting dan tidak dikecilkan",
-    "SS Realisasi KBM dibuat 100% tanpa zoom mengecil",
-    "SS Realisasi TST mempertahankan layout TST sendiri pada skala 100%",
-    "Peningkatan stabilitas proses screenshot"
+    "Perbaikan SS Validasi Presensi agar warna dan tampilan mengikuti tabel native website",
+    "Peningkatan stabilitas pemilihan Cabang JPMP",
+    "Perbaikan virtual click JPMP tanpa mengganggu mouse pengguna",
+    "Perbaikan proses drill-down JPMP",
+    "Perbaikan penanganan stale element dan JavaScript pada JPMP",
+    "Perbaikan SS Jadwal KBM untuk periode tanggal yang berbeda",
+    "Perbaikan level screenshot Kota, Sekretariat, dan Kelas",
+    "Peningkatan kecepatan dan stabilitas proses screenshot"
   ],
-  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.5/Superapps_Macro_Center_Setup_v1.18.5.exe",
-  "sha256": "5a8491fc46cf3436ef64a26b2c15cc3f0c3e0141e2d446b034ad5d75fa449cdb",
-  "published_at": "2026-09-17T03:05:06Z"
+  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.27/Superapps_Macro_Center_Setup_v1.18.27.exe",
+  "sha256": "fa37bce7443d621e91a93384900fdc23467825887214df3645b5f838042e00e5",
+  "published_at": "2026-09-17T08:31:28Z"
 }
