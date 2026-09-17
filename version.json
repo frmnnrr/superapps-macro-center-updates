@@ -1,15 +1,19 @@
 {
-  "version": "1.18.1",
+  "version": "1.18.5",
   "mandatory": false,
-  "title": "Superapps Macro Center v1.18.1",
+  "title": "Superapps Macro Center v1.18.5",
   "notes": [
-    "Telegram Bot Token dan Chat ID dapat diatur masing-masing user",
+    "Perbaikan selector Cabang pada SS Jadwal KBM",
+    "Perbaikan selector pada Realisasi KBM dan menu terkait",
     "Penambahan Test Koneksi Telegram",
-    "Penyimpanan konfigurasi Telegram per user/PC",
+    "Telegram Bot Token dan Chat ID per user/PC",
     "Penambahan tombol Buka Hasil Folder Download pada Download Cancel",
-    "Perbaikan kemudahan akses hasil unduhan"
+    "SS Validasi Presensi difokuskan ke kolom penting dan tidak dikecilkan",
+    "SS Realisasi KBM dibuat 100% tanpa zoom mengecil",
+    "SS Realisasi TST mempertahankan layout TST sendiri pada skala 100%",
+    "Peningkatan stabilitas proses screenshot"
   ],
-  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.1/Superapps_Macro_Center_Setup_v1.18.1.exe",
-  "sha256": "be9768b879e07ef537640c62953672dfdbb71e6c22e2438c5d4cdbd98c7c8204",
-  "published_at": "2026-09-16T10:51:42Z"
+  "installer_url": "https://github.com/frmnnrr/superapps-macro-center-updates/releases/download/v1.18.5/Superapps_Macro_Center_Setup_v1.18.5.exe",
+  "sha256": "5a8491fc46cf3436ef64a26b2c15cc3f0c3e0141e2d446b034ad5d75fa449cdb",
+  "published_at": "2026-09-17T03:05:06Z"
 }
